@@ -23,7 +23,7 @@ let photosArray = [];
 
 // unsplash API
 const count = 30;
-const query = "sexy boobs";
+const query = "sexy";
 const apiKey = "Aj7jZPd8DEUtoiQvN1owREh4ydBSGIP5S5Eq0xnhyb8";
 const apiURL = `https://api.unsplash.com/photos/random?client_id=${apiKey}&count=${count}&query=${query}`;
 
